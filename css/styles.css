@@ -476,9 +476,6 @@
 #mama-moderna .menu-texto span:nth-child(2){
   font-style: oblique;
 }
-#mama-moderna .section{
-  /* height: 650px; */
-}
 #mama-moderna .section .makers,
 #mama-moderna .section .licuadora{
   background-color: #fddfe4;
@@ -2338,9 +2335,6 @@ margin-top: 138px;
   #mama-moderna .arrow-scroll {
     display: block;
   }
-  #mama-moderna section {
-
-  }
   #mama-moderna #slider-productos {
     color: #fff;
     display: -webkit-box;
@@ -2735,9 +2729,6 @@ margin-top: 138px;
   #mama-moderna .titulo-header h1 {
     font-size: 54px;
   }
-  #mama-moderna .anchor {
-    top: -90px;
-  }
   #mama-moderna .section .cont-1 {
     max-width: 400px;
     width: 100%;
@@ -2801,13 +2792,7 @@ margin-top: 138px;
     width: 100%;
   }
   #mama-moderna .anchor {
-    top: -20px;
-  }
-  #mama-moderna section {
-
-  }
-  #mama-moderna #section-prod1 {
-
+    top: 0px;
   }
   #mama-moderna #section-prod1 .detail,
   #mama-moderna #section-refrigeracion .detail,
@@ -2953,17 +2938,7 @@ margin-top: 138px;
   }
   #mama-moderna .menu {
     clear: both;
-    /* overflow: hidden; */
     bottom: auto;
-  }
-  #mama-moderna .menu li {
-
-  }
-  #mama-moderna .menu li a .icon {
-
-  }
-  #mama-moderna .menu li .active {
-
   }
   #mama-moderna #btn-mobile {
     display: block;
